@@ -9,7 +9,7 @@
  
 ## 1. NNA Init
 
-設定input layer, hidden layer, output layer的節點數以及學習速率和容忍誤差
+設定input layer、hidden layer、output layer的節點數、學習速率和容忍誤差。
 
 ## 2. Training
 
@@ -20,8 +20,9 @@
 設定對應的output
 
 ![output](http://i.imgur.com/Xdqh7u2.png)
+
 設定結束後按下confirm，再按下Training
 
 ## 3. Display
 
-用來驗證訓練的結果
+用來驗證訓練的結果，輸入不在訓練資料裡的pattern來確認是否與自己想要的結果接近。
